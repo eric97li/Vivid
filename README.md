@@ -2,7 +2,7 @@
 In progress music playing application
 
 Purpose is to have a seamless uninterrupted music experience where you can listen to what you want, when you want, and however much
-you want with no need for wifi/data, ads, or fees.
+you want with no need for wifi/data, ads, or fees. Add your songs to playlist and play it anywhere and enjoy to your hearts content!
 
 Current functionality
   Create mp3, add song to queue, play select song, play queue to end (reloop queue again option), start session, 
@@ -10,7 +10,7 @@ Current functionality
   
   To be added: Rewind to prev song or skip, remove song, song search in queue for convenience of large song sets, 
      database store of users and song lists, user sign in, handle cases of wrong inputs for commands (for an example such as 
-     playing queue when no songs added: this currently ends the session).
+     playing queue when no songs added: this currently ends the session), undo.
   
 Instructions of use:
     Commands instructions follow with starting the application

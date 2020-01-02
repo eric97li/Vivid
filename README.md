@@ -17,5 +17,7 @@ Instructions of use:
     which song of the queue to begin with. After the last song in the queue is reached you'll be prompted whether to loop again and play 
     from the beginning or quit. 
     
+    There are some example songs that are in this project that is how it should appear.
+    
     This is a work in progress still and other functionality, optimalities, and conveniences will be developed.
     Available as a cross platform application later in the future.

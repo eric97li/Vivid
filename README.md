@@ -1,7 +1,7 @@
 # Vivid
 In progress music playing application
 
-Purpose is to have a seamless uninterrupted music experience where you can listen to what you want when you want, and however much
+Purpose is to have a seamless uninterrupted music experience where you can listen to what you want, when you want, and however much
 you want with no need for wifi/data, ads, or fees.
 
 Current functionality

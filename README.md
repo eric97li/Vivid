@@ -8,7 +8,8 @@ Current functionality
   Create mp3, add song to queue, play select song, play queue to end (reloop queue again option), start session, 
   quit session (when queue reaches final song)
   
-  To be added: Rewind to prev song or skip, remove song
+  To be added: Rewind to prev song or skip, remove song, song search in queue for convenience of large song sets, 
+     database store of users and song lists, user sign in 
   
 Instructions of use:
     Commands instructions follow with starting the application

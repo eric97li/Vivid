@@ -9,7 +9,8 @@ Current functionality
   quit session (when queue reaches final song)
   
   To be added: Rewind to prev song or skip, remove song, song search in queue for convenience of large song sets, 
-     database store of users and song lists, user sign in 
+     database store of users and song lists, user sign in, handle cases of wrong inputs for commands (for an example such as 
+     playing queue when no songs added: this currently ends the session).
   
 Instructions of use:
     Commands instructions follow with starting the application
